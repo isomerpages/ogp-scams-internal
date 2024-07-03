@@ -1,0 +1,6 @@
+collections:
+  more:
+    output: true
+    order:
+      - Our Partners.md
+      - Whole of Government Effort.md

@@ -1,0 +1,33 @@
+collections:
+  i-want-protection-from-scams:
+    output: true
+    order:
+      - Introduction to Scams.md
+      - Stay safe with ScamShield/.keep
+      - Stay safe with ScamShield/About ScamShield.md
+      - Stay safe with ScamShield/Check for scams.md
+      - Stay safe with ScamShield/Submit a scam report.md
+      - Stay safe with ScamShield/Block and filter scams (iOS).md
+      - Stay safe with ScamShield/Block and filter scams (Android).md
+      - Stay safe with ScamShield/ScamShield helpline.md
+      - More ways to protect yourself/.keep
+      - More ways to protect yourself/Block scam calls and SMSes with
+        ScamShield.md
+      - More ways to protect yourself/Secure your devices.md
+      - More ways to protect yourself/Secure your accounts.md
+      - More ways to protect yourself/Transact securely.md
+      - Understanding scam types/.keep
+      - Understanding scam types/Job Scams.md
+      - Understanding scam types/E Commerce Scams.md
+      - Understanding scam types/Fake Friend Call Scams.md
+      - Understanding scam types/Phishing Scams.md
+      - Understanding scam types/Investment Scams.md
+      - Understanding scam types/Government Officials Impersonation Scams.md
+      - Dump/Cyber Hygiene Behaviours.md
+      - Dump/Limit contact from strangers on online accounts.md
+      - Dump/Make banking more secure.md
+      - Dump/I Can ACT Against Scams.md
+      - Dump/.keep
+      - Dump/Join our messaging channels.md
+      - Dump/Report scam encounter.md
+      - Dump/Check if something is a scam.md
